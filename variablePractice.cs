@@ -1,4 +1,3 @@
-using System;
 
 class First
 {
@@ -21,10 +20,10 @@ class First
         char grade = 'A';
 
         // Output logic fix
-        Console.writeLine("My name is: " + fname + " " + lname);
-        Console.writeLine("I am " + age + " years old.");
-        Console.writeLine("My CGPA is: " + cgpa);
-        Console.writeLine("I passed this semester: " + isPassed);
-        Console.writeLine("My Grade is: " + grade);
+        Console.WriteLine("My name is: " + fname + " " + lname);
+        Console.WriteLine("I am " + age + " years old.");
+        Console.WriteLine("My CGPA is: " + cgpa);
+        Console.WriteLine("I passed this semester: " + isPassed);
+        Console.WriteLine("My Grade is: " + grade);
     }
 }

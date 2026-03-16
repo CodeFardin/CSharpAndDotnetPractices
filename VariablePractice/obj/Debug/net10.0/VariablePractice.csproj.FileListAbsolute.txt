@@ -1,0 +1,15 @@
+D:\CSharpAndDotnetPractices\VariablePractice\bin\Debug\net10.0\VariablePractice.exe
+D:\CSharpAndDotnetPractices\VariablePractice\bin\Debug\net10.0\VariablePractice.deps.json
+D:\CSharpAndDotnetPractices\VariablePractice\bin\Debug\net10.0\VariablePractice.runtimeconfig.json
+D:\CSharpAndDotnetPractices\VariablePractice\bin\Debug\net10.0\VariablePractice.dll
+D:\CSharpAndDotnetPractices\VariablePractice\bin\Debug\net10.0\VariablePractice.pdb
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\VariablePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\VariablePractice.AssemblyInfoInputs.cache
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\VariablePractice.AssemblyInfo.cs
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\VariablePractice.csproj.CoreCompileInputs.cache
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\VariablePractice.sourcelink.json
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\VariablePractice.dll
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\refint\VariablePractice.dll
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\VariablePractice.pdb
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\VariablePractice.genruntimeconfig.cache
+D:\CSharpAndDotnetPractices\VariablePractice\obj\Debug\net10.0\ref\VariablePractice.dll
